@@ -1,6 +1,6 @@
 <?php
 // Configurazione del database
-$db_host = 'localhost';
+$db_host = '35.232.122.63';
 $db_name = 'image_catalog';
 $db_user = 'appmod-phpapp-user';
 $db_pass = 'pudB6lmH3LPja';
